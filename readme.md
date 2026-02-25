@@ -81,6 +81,9 @@ API akan berjalan di `http://127.0.0.1:8000`.
 - `api/db/`: Penyimpanan database vektor (Diabaikan oleh Git).
 - `api/uploads/`: Folder penyimpanan file PDF sementara (Diabaikan oleh Git).
 - `.gitignore`: Mengatur file yang tidak perlu di-upload ke GitHub.
+- `main.py`: File API dengan setup backend menggunakan LCEL
+- `main1.py`: File API dengan setup backend Manual
+### Note : Ubah salah satu file dengan nama main.py
 
 ---
 Dikembangkan oleh Ihksan menggunakan Ollama & LangChain.
