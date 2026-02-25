@@ -83,4 +83,4 @@ API akan berjalan di `http://127.0.0.1:8000`.
 - `.gitignore`: Mengatur file yang tidak perlu di-upload ke GitHub.
 
 ---
-Dikembangkan dengan ❤️ menggunakan Ollama & LangChain.
+Dikembangkan oleh Ihksan menggunakan Ollama & LangChain.
